@@ -6,8 +6,8 @@ import '../styles/contact-footer.css';
 const CONTACT_LINKS = [
   {
     label: 'Email',
-    value: 'dipesh@example.com',
-    href: 'mailto:dipesh@example.com',
+    value: 'dipesh05singh@gmail.com',
+    href: 'mailto:dipesh05singh@gmail.com',
     iconBg: 'rgba(99, 102, 241, 0.15)',
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

@@ -62,7 +62,7 @@ export const education = [
     id: 1,
     degree: "Bachelor of Technology (B.Tech)",
     field: "Computer Science Engineering",
-    institution: "Your University Name",
+    institution: "Mirai School of Technology",
     duration: "2022 – 2026",
     status: "Pursuing",
     description:
@@ -74,7 +74,7 @@ export const education = [
     id: 2,
     degree: "Higher Secondary (12th)",
     field: "Science (PCM)",
-    institution: "Your School Name",
+    institution: "OAK Grove School",
     duration: "2020 – 2022",
     status: "Completed",
     description:
